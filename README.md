@@ -1,4 +1,4 @@
-# My first web design of iphone page 
+# My first responsive web design of iphone page 
 ![img.png](img.png)
 
 Made with this [video](https://youtu.be/2dVPFVX3ZZ0)
